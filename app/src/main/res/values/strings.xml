@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FocusGuard</string>
+    <string name="a11y_description">FocusGuard watches which app is in the foreground so it can enforce the time limits, schedules and focus sessions you set. It reads only the app name (and the address bar of supported browsers for blocked websites). Nothing leaves your phone.</string>
+</resources>
